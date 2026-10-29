@@ -1,0 +1,1 @@
+{"name": "بازی مار", "short_name": "مار", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#0f1a24", "theme_color": "#0f1a24", "icons": [{"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
